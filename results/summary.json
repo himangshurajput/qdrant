@@ -1,0 +1,46 @@
+{
+  "exact": {
+    "mean_overlap": 1.0,
+    "mean_latency_ms": 3.468
+  },
+  "hnsw_default_ef_default": {
+    "mean_overlap": 1.0,
+    "mean_latency_ms": 3.42
+  },
+  "hnsw_default_ef_16": {
+    "mean_overlap": 1.0,
+    "mean_latency_ms": 3.492
+  },
+  "hnsw_default_ef_64": {
+    "mean_overlap": 1.0,
+    "mean_latency_ms": 3.354
+  },
+  "hnsw_default_ef_128": {
+    "mean_overlap": 1.0,
+    "mean_latency_ms": 3.483
+  },
+  "hnsw_low_ef_default": {
+    "mean_overlap": 1.0,
+    "mean_latency_ms": 3.586
+  },
+  "hnsw_low_ef_16": {
+    "mean_overlap": 1.0,
+    "mean_latency_ms": 3.479
+  },
+  "hnsw_low_ef_64": {
+    "mean_overlap": 1.0,
+    "mean_latency_ms": 3.497
+  },
+  "hnsw_low_ef_128": {
+    "mean_overlap": 1.0,
+    "mean_latency_ms": 3.651
+  },
+  "ivf_nprobe_1": {
+    "mean_overlap": 0.96,
+    "mean_latency_ms": 0.055
+  },
+  "ivf_nprobe_8": {
+    "mean_overlap": 1.0,
+    "mean_latency_ms": 0.406
+  }
+}
