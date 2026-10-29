@@ -1,0 +1,1637 @@
+[
+  {
+    "query": "a question about a graphics card driver",
+    "exact": {
+      "latency_ms": 3.681,
+      "top": [
+        {
+          "id": 2548,
+          "score": 0.4387,
+          "category": "comp.sys.ibm.pc.hardware",
+          "text": "HI,  that might look like a dull request, but I have been following th"
+        },
+        {
+          "id": 5623,
+          "score": 0.4311,
+          "category": "comp.graphics",
+          "text": ": I have a question about SVGA cards.  I have a Tseng 4000 SVGA with 1"
+        },
+        {
+          "id": 2208,
+          "score": 0.4287,
+          "category": "comp.sys.ibm.pc.hardware",
+          "text": "I would appreciate the driver name from CICA which functions as a 256 "
+        },
+        {
+          "id": 753,
+          "score": 0.4158,
+          "category": "comp.os.ms-windows.misc",
+          "text": "Please Help if you can. Whenever I try to run windows useing the 16 mi"
+        },
+        {
+          "id": 5555,
+          "score": 0.4095,
+          "category": "comp.sys.ibm.pc.hardware",
+          "text": "Hi there.  We just bought a 486 DX2/66 Gateway system with a 2 meg ATI"
+        }
+      ],
+      "overlap": 1.0
+    },
+    "hnsw_default_ef_default": {
+      "latency_ms": 3.836,
+      "top": [
+        {
+          "id": 2548,
+          "score": 0.4387,
+          "category": "comp.sys.ibm.pc.hardware",
+          "text": "HI,  that might look like a dull request, but I have been following th"
+        },
+        {
+          "id": 5623,
+          "score": 0.4311,
+          "category": "comp.graphics",
+          "text": ": I have a question about SVGA cards.  I have a Tseng 4000 SVGA with 1"
+        },
+        {
+          "id": 2208,
+          "score": 0.4287,
+          "category": "comp.sys.ibm.pc.hardware",
+          "text": "I would appreciate the driver name from CICA which functions as a 256 "
+        },
+        {
+          "id": 753,
+          "score": 0.4158,
+          "category": "comp.os.ms-windows.misc",
+          "text": "Please Help if you can. Whenever I try to run windows useing the 16 mi"
+        },
+        {
+          "id": 5555,
+          "score": 0.4095,
+          "category": "comp.sys.ibm.pc.hardware",
+          "text": "Hi there.  We just bought a 486 DX2/66 Gateway system with a 2 meg ATI"
+        }
+      ],
+      "overlap": 1.0
+    },
+    "hnsw_default_ef_16": {
+      "latency_ms": 3.697,
+      "top": [
+        {
+          "id": 2548,
+          "score": 0.4387,
+          "category": "comp.sys.ibm.pc.hardware",
+          "text": "HI,  that might look like a dull request, but I have been following th"
+        },
+        {
+          "id": 5623,
+          "score": 0.4311,
+          "category": "comp.graphics",
+          "text": ": I have a question about SVGA cards.  I have a Tseng 4000 SVGA with 1"
+        },
+        {
+          "id": 2208,
+          "score": 0.4287,
+          "category": "comp.sys.ibm.pc.hardware",
+          "text": "I would appreciate the driver name from CICA which functions as a 256 "
+        },
+        {
+          "id": 753,
+          "score": 0.4158,
+          "category": "comp.os.ms-windows.misc",
+          "text": "Please Help if you can. Whenever I try to run windows useing the 16 mi"
+        },
+        {
+          "id": 5555,
+          "score": 0.4095,
+          "category": "comp.sys.ibm.pc.hardware",
+          "text": "Hi there.  We just bought a 486 DX2/66 Gateway system with a 2 meg ATI"
+        }
+      ],
+      "overlap": 1.0
+    },
+    "hnsw_default_ef_64": {
+      "latency_ms": 3.623,
+      "top": [
+        {
+          "id": 2548,
+          "score": 0.4387,
+          "category": "comp.sys.ibm.pc.hardware",
+          "text": "HI,  that might look like a dull request, but I have been following th"
+        },
+        {
+          "id": 5623,
+          "score": 0.4311,
+          "category": "comp.graphics",
+          "text": ": I have a question about SVGA cards.  I have a Tseng 4000 SVGA with 1"
+        },
+        {
+          "id": 2208,
+          "score": 0.4287,
+          "category": "comp.sys.ibm.pc.hardware",
+          "text": "I would appreciate the driver name from CICA which functions as a 256 "
+        },
+        {
+          "id": 753,
+          "score": 0.4158,
+          "category": "comp.os.ms-windows.misc",
+          "text": "Please Help if you can. Whenever I try to run windows useing the 16 mi"
+        },
+        {
+          "id": 5555,
+          "score": 0.4095,
+          "category": "comp.sys.ibm.pc.hardware",
+          "text": "Hi there.  We just bought a 486 DX2/66 Gateway system with a 2 meg ATI"
+        }
+      ],
+      "overlap": 1.0
+    },
+    "hnsw_default_ef_128": {
+      "latency_ms": 3.627,
+      "top": [
+        {
+          "id": 2548,
+          "score": 0.4387,
+          "category": "comp.sys.ibm.pc.hardware",
+          "text": "HI,  that might look like a dull request, but I have been following th"
+        },
+        {
+          "id": 5623,
+          "score": 0.4311,
+          "category": "comp.graphics",
+          "text": ": I have a question about SVGA cards.  I have a Tseng 4000 SVGA with 1"
+        },
+        {
+          "id": 2208,
+          "score": 0.4287,
+          "category": "comp.sys.ibm.pc.hardware",
+          "text": "I would appreciate the driver name from CICA which functions as a 256 "
+        },
+        {
+          "id": 753,
+          "score": 0.4158,
+          "category": "comp.os.ms-windows.misc",
+          "text": "Please Help if you can. Whenever I try to run windows useing the 16 mi"
+        },
+        {
+          "id": 5555,
+          "score": 0.4095,
+          "category": "comp.sys.ibm.pc.hardware",
+          "text": "Hi there.  We just bought a 486 DX2/66 Gateway system with a 2 meg ATI"
+        }
+      ],
+      "overlap": 1.0
+    },
+    "hnsw_low_ef_default": {
+      "latency_ms": 3.7,
+      "top": [
+        {
+          "id": 2548,
+          "score": 0.4387,
+          "category": "comp.sys.ibm.pc.hardware",
+          "text": "HI,  that might look like a dull request, but I have been following th"
+        },
+        {
+          "id": 5623,
+          "score": 0.4311,
+          "category": "comp.graphics",
+          "text": ": I have a question about SVGA cards.  I have a Tseng 4000 SVGA with 1"
+        },
+        {
+          "id": 2208,
+          "score": 0.4287,
+          "category": "comp.sys.ibm.pc.hardware",
+          "text": "I would appreciate the driver name from CICA which functions as a 256 "
+        },
+        {
+          "id": 753,
+          "score": 0.4158,
+          "category": "comp.os.ms-windows.misc",
+          "text": "Please Help if you can. Whenever I try to run windows useing the 16 mi"
+        },
+        {
+          "id": 5555,
+          "score": 0.4095,
+          "category": "comp.sys.ibm.pc.hardware",
+          "text": "Hi there.  We just bought a 486 DX2/66 Gateway system with a 2 meg ATI"
+        }
+      ],
+      "overlap": 1.0
+    },
+    "hnsw_low_ef_16": {
+      "latency_ms": 3.45,
+      "top": [
+        {
+          "id": 2548,
+          "score": 0.4387,
+          "category": "comp.sys.ibm.pc.hardware",
+          "text": "HI,  that might look like a dull request, but I have been following th"
+        },
+        {
+          "id": 5623,
+          "score": 0.4311,
+          "category": "comp.graphics",
+          "text": ": I have a question about SVGA cards.  I have a Tseng 4000 SVGA with 1"
+        },
+        {
+          "id": 2208,
+          "score": 0.4287,
+          "category": "comp.sys.ibm.pc.hardware",
+          "text": "I would appreciate the driver name from CICA which functions as a 256 "
+        },
+        {
+          "id": 753,
+          "score": 0.4158,
+          "category": "comp.os.ms-windows.misc",
+          "text": "Please Help if you can. Whenever I try to run windows useing the 16 mi"
+        },
+        {
+          "id": 5555,
+          "score": 0.4095,
+          "category": "comp.sys.ibm.pc.hardware",
+          "text": "Hi there.  We just bought a 486 DX2/66 Gateway system with a 2 meg ATI"
+        }
+      ],
+      "overlap": 1.0
+    },
+    "hnsw_low_ef_64": {
+      "latency_ms": 3.126,
+      "top": [
+        {
+          "id": 2548,
+          "score": 0.4387,
+          "category": "comp.sys.ibm.pc.hardware",
+          "text": "HI,  that might look like a dull request, but I have been following th"
+        },
+        {
+          "id": 5623,
+          "score": 0.4311,
+          "category": "comp.graphics",
+          "text": ": I have a question about SVGA cards.  I have a Tseng 4000 SVGA with 1"
+        },
+        {
+          "id": 2208,
+          "score": 0.4287,
+          "category": "comp.sys.ibm.pc.hardware",
+          "text": "I would appreciate the driver name from CICA which functions as a 256 "
+        },
+        {
+          "id": 753,
+          "score": 0.4158,
+          "category": "comp.os.ms-windows.misc",
+          "text": "Please Help if you can. Whenever I try to run windows useing the 16 mi"
+        },
+        {
+          "id": 5555,
+          "score": 0.4095,
+          "category": "comp.sys.ibm.pc.hardware",
+          "text": "Hi there.  We just bought a 486 DX2/66 Gateway system with a 2 meg ATI"
+        }
+      ],
+      "overlap": 1.0
+    },
+    "hnsw_low_ef_128": {
+      "latency_ms": 3.142,
+      "top": [
+        {
+          "id": 2548,
+          "score": 0.4387,
+          "category": "comp.sys.ibm.pc.hardware",
+          "text": "HI,  that might look like a dull request, but I have been following th"
+        },
+        {
+          "id": 5623,
+          "score": 0.4311,
+          "category": "comp.graphics",
+          "text": ": I have a question about SVGA cards.  I have a Tseng 4000 SVGA with 1"
+        },
+        {
+          "id": 2208,
+          "score": 0.4287,
+          "category": "comp.sys.ibm.pc.hardware",
+          "text": "I would appreciate the driver name from CICA which functions as a 256 "
+        },
+        {
+          "id": 753,
+          "score": 0.4158,
+          "category": "comp.os.ms-windows.misc",
+          "text": "Please Help if you can. Whenever I try to run windows useing the 16 mi"
+        },
+        {
+          "id": 5555,
+          "score": 0.4095,
+          "category": "comp.sys.ibm.pc.hardware",
+          "text": "Hi there.  We just bought a 486 DX2/66 Gateway system with a 2 meg ATI"
+        }
+      ],
+      "overlap": 1.0
+    }
+  },
+  {
+    "query": "advice on buying a used motorcycle",
+    "exact": {
+      "latency_ms": 3.175,
+      "top": [
+        {
+          "id": 1730,
+          "score": 0.7312,
+          "category": "rec.motorcycles",
+          "text": "Hi. I have been thinking about buying a Motorcycle or a while now and "
+        },
+        {
+          "id": 391,
+          "score": 0.6238,
+          "category": "rec.motorcycles",
+          "text": "Anyone,       I am a serious motorcycle enthusiast without a motorcycl"
+        },
+        {
+          "id": 2869,
+          "score": 0.6238,
+          "category": "rec.motorcycles",
+          "text": "Anyone,       I am a serious motorcycle enthusiast without a motorcycl"
+        },
+        {
+          "id": 4092,
+          "score": 0.5824,
+          "category": "rec.motorcycles",
+          "text": "I'm thinking about becoming a bike owner this year w/o any bike experi"
+        },
+        {
+          "id": 1419,
+          "score": 0.5419,
+          "category": "rec.motorcycles",
+          "text": "I have a line on a Ducati 900GTS 1978 model with 17k on the clock.  Ru"
+        }
+      ],
+      "overlap": 1.0
+    },
+    "hnsw_default_ef_default": {
+      "latency_ms": 2.992,
+      "top": [
+        {
+          "id": 1730,
+          "score": 0.7312,
+          "category": "rec.motorcycles",
+          "text": "Hi. I have been thinking about buying a Motorcycle or a while now and "
+        },
+        {
+          "id": 391,
+          "score": 0.6238,
+          "category": "rec.motorcycles",
+          "text": "Anyone,       I am a serious motorcycle enthusiast without a motorcycl"
+        },
+        {
+          "id": 2869,
+          "score": 0.6238,
+          "category": "rec.motorcycles",
+          "text": "Anyone,       I am a serious motorcycle enthusiast without a motorcycl"
+        },
+        {
+          "id": 4092,
+          "score": 0.5824,
+          "category": "rec.motorcycles",
+          "text": "I'm thinking about becoming a bike owner this year w/o any bike experi"
+        },
+        {
+          "id": 1419,
+          "score": 0.5419,
+          "category": "rec.motorcycles",
+          "text": "I have a line on a Ducati 900GTS 1978 model with 17k on the clock.  Ru"
+        }
+      ],
+      "overlap": 1.0
+    },
+    "hnsw_default_ef_16": {
+      "latency_ms": 3.14,
+      "top": [
+        {
+          "id": 1730,
+          "score": 0.7312,
+          "category": "rec.motorcycles",
+          "text": "Hi. I have been thinking about buying a Motorcycle or a while now and "
+        },
+        {
+          "id": 391,
+          "score": 0.6238,
+          "category": "rec.motorcycles",
+          "text": "Anyone,       I am a serious motorcycle enthusiast without a motorcycl"
+        },
+        {
+          "id": 2869,
+          "score": 0.6238,
+          "category": "rec.motorcycles",
+          "text": "Anyone,       I am a serious motorcycle enthusiast without a motorcycl"
+        },
+        {
+          "id": 4092,
+          "score": 0.5824,
+          "category": "rec.motorcycles",
+          "text": "I'm thinking about becoming a bike owner this year w/o any bike experi"
+        },
+        {
+          "id": 1419,
+          "score": 0.5419,
+          "category": "rec.motorcycles",
+          "text": "I have a line on a Ducati 900GTS 1978 model with 17k on the clock.  Ru"
+        }
+      ],
+      "overlap": 1.0
+    },
+    "hnsw_default_ef_64": {
+      "latency_ms": 3.026,
+      "top": [
+        {
+          "id": 1730,
+          "score": 0.7312,
+          "category": "rec.motorcycles",
+          "text": "Hi. I have been thinking about buying a Motorcycle or a while now and "
+        },
+        {
+          "id": 391,
+          "score": 0.6238,
+          "category": "rec.motorcycles",
+          "text": "Anyone,       I am a serious motorcycle enthusiast without a motorcycl"
+        },
+        {
+          "id": 2869,
+          "score": 0.6238,
+          "category": "rec.motorcycles",
+          "text": "Anyone,       I am a serious motorcycle enthusiast without a motorcycl"
+        },
+        {
+          "id": 4092,
+          "score": 0.5824,
+          "category": "rec.motorcycles",
+          "text": "I'm thinking about becoming a bike owner this year w/o any bike experi"
+        },
+        {
+          "id": 1419,
+          "score": 0.5419,
+          "category": "rec.motorcycles",
+          "text": "I have a line on a Ducati 900GTS 1978 model with 17k on the clock.  Ru"
+        }
+      ],
+      "overlap": 1.0
+    },
+    "hnsw_default_ef_128": {
+      "latency_ms": 3.013,
+      "top": [
+        {
+          "id": 1730,
+          "score": 0.7312,
+          "category": "rec.motorcycles",
+          "text": "Hi. I have been thinking about buying a Motorcycle or a while now and "
+        },
+        {
+          "id": 391,
+          "score": 0.6238,
+          "category": "rec.motorcycles",
+          "text": "Anyone,       I am a serious motorcycle enthusiast without a motorcycl"
+        },
+        {
+          "id": 2869,
+          "score": 0.6238,
+          "category": "rec.motorcycles",
+          "text": "Anyone,       I am a serious motorcycle enthusiast without a motorcycl"
+        },
+        {
+          "id": 4092,
+          "score": 0.5824,
+          "category": "rec.motorcycles",
+          "text": "I'm thinking about becoming a bike owner this year w/o any bike experi"
+        },
+        {
+          "id": 1419,
+          "score": 0.5419,
+          "category": "rec.motorcycles",
+          "text": "I have a line on a Ducati 900GTS 1978 model with 17k on the clock.  Ru"
+        }
+      ],
+      "overlap": 1.0
+    },
+    "hnsw_low_ef_default": {
+      "latency_ms": 3.383,
+      "top": [
+        {
+          "id": 1730,
+          "score": 0.7312,
+          "category": "rec.motorcycles",
+          "text": "Hi. I have been thinking about buying a Motorcycle or a while now and "
+        },
+        {
+          "id": 2869,
+          "score": 0.6238,
+          "category": "rec.motorcycles",
+          "text": "Anyone,       I am a serious motorcycle enthusiast without a motorcycl"
+        },
+        {
+          "id": 391,
+          "score": 0.6238,
+          "category": "rec.motorcycles",
+          "text": "Anyone,       I am a serious motorcycle enthusiast without a motorcycl"
+        },
+        {
+          "id": 4092,
+          "score": 0.5824,
+          "category": "rec.motorcycles",
+          "text": "I'm thinking about becoming a bike owner this year w/o any bike experi"
+        },
+        {
+          "id": 1419,
+          "score": 0.5419,
+          "category": "rec.motorcycles",
+          "text": "I have a line on a Ducati 900GTS 1978 model with 17k on the clock.  Ru"
+        }
+      ],
+      "overlap": 1.0
+    },
+    "hnsw_low_ef_16": {
+      "latency_ms": 3.241,
+      "top": [
+        {
+          "id": 1730,
+          "score": 0.7312,
+          "category": "rec.motorcycles",
+          "text": "Hi. I have been thinking about buying a Motorcycle or a while now and "
+        },
+        {
+          "id": 2869,
+          "score": 0.6238,
+          "category": "rec.motorcycles",
+          "text": "Anyone,       I am a serious motorcycle enthusiast without a motorcycl"
+        },
+        {
+          "id": 391,
+          "score": 0.6238,
+          "category": "rec.motorcycles",
+          "text": "Anyone,       I am a serious motorcycle enthusiast without a motorcycl"
+        },
+        {
+          "id": 4092,
+          "score": 0.5824,
+          "category": "rec.motorcycles",
+          "text": "I'm thinking about becoming a bike owner this year w/o any bike experi"
+        },
+        {
+          "id": 1419,
+          "score": 0.5419,
+          "category": "rec.motorcycles",
+          "text": "I have a line on a Ducati 900GTS 1978 model with 17k on the clock.  Ru"
+        }
+      ],
+      "overlap": 1.0
+    },
+    "hnsw_low_ef_64": {
+      "latency_ms": 3.218,
+      "top": [
+        {
+          "id": 1730,
+          "score": 0.7312,
+          "category": "rec.motorcycles",
+          "text": "Hi. I have been thinking about buying a Motorcycle or a while now and "
+        },
+        {
+          "id": 2869,
+          "score": 0.6238,
+          "category": "rec.motorcycles",
+          "text": "Anyone,       I am a serious motorcycle enthusiast without a motorcycl"
+        },
+        {
+          "id": 391,
+          "score": 0.6238,
+          "category": "rec.motorcycles",
+          "text": "Anyone,       I am a serious motorcycle enthusiast without a motorcycl"
+        },
+        {
+          "id": 4092,
+          "score": 0.5824,
+          "category": "rec.motorcycles",
+          "text": "I'm thinking about becoming a bike owner this year w/o any bike experi"
+        },
+        {
+          "id": 1419,
+          "score": 0.5419,
+          "category": "rec.motorcycles",
+          "text": "I have a line on a Ducati 900GTS 1978 model with 17k on the clock.  Ru"
+        }
+      ],
+      "overlap": 1.0
+    },
+    "hnsw_low_ef_128": {
+      "latency_ms": 3.07,
+      "top": [
+        {
+          "id": 1730,
+          "score": 0.7312,
+          "category": "rec.motorcycles",
+          "text": "Hi. I have been thinking about buying a Motorcycle or a while now and "
+        },
+        {
+          "id": 2869,
+          "score": 0.6238,
+          "category": "rec.motorcycles",
+          "text": "Anyone,       I am a serious motorcycle enthusiast without a motorcycl"
+        },
+        {
+          "id": 391,
+          "score": 0.6238,
+          "category": "rec.motorcycles",
+          "text": "Anyone,       I am a serious motorcycle enthusiast without a motorcycl"
+        },
+        {
+          "id": 4092,
+          "score": 0.5824,
+          "category": "rec.motorcycles",
+          "text": "I'm thinking about becoming a bike owner this year w/o any bike experi"
+        },
+        {
+          "id": 1419,
+          "score": 0.5419,
+          "category": "rec.motorcycles",
+          "text": "I have a line on a Ducati 900GTS 1978 model with 17k on the clock.  Ru"
+        }
+      ],
+      "overlap": 1.0
+    }
+  },
+  {
+    "query": "debate about religion and the existence of god",
+    "exact": {
+      "latency_ms": 3.169,
+      "top": [
+        {
+          "id": 609,
+          "score": 0.5217,
+          "category": "alt.atheism",
+          "text": "(Deletion)   For me, it is a \"I believe no gods exist\" and a \"I don't "
+        },
+        {
+          "id": 4263,
+          "score": 0.512,
+          "category": "alt.atheism",
+          "text": ": Very true (length of time for discussions on creationism vs evolutio"
+        },
+        {
+          "id": 4112,
+          "score": 0.5108,
+          "category": "alt.atheism",
+          "text": "A world creator god does, the moment it creates the world. And to sayi"
+        },
+        {
+          "id": 5766,
+          "score": 0.5073,
+          "category": "soc.religion.christian",
+          "text": "You assume this because you believe in a designing creator, and you ob"
+        },
+        {
+          "id": 4998,
+          "score": 0.4951,
+          "category": "alt.atheism",
+          "text": "Archive-name: atheism/logic Alt-atheism-archive-name: logic Last-modif"
+        }
+      ],
+      "overlap": 1.0
+    },
+    "hnsw_default_ef_default": {
+      "latency_ms": 3.172,
+      "top": [
+        {
+          "id": 609,
+          "score": 0.5217,
+          "category": "alt.atheism",
+          "text": "(Deletion)   For me, it is a \"I believe no gods exist\" and a \"I don't "
+        },
+        {
+          "id": 4263,
+          "score": 0.512,
+          "category": "alt.atheism",
+          "text": ": Very true (length of time for discussions on creationism vs evolutio"
+        },
+        {
+          "id": 4112,
+          "score": 0.5108,
+          "category": "alt.atheism",
+          "text": "A world creator god does, the moment it creates the world. And to sayi"
+        },
+        {
+          "id": 5766,
+          "score": 0.5073,
+          "category": "soc.religion.christian",
+          "text": "You assume this because you believe in a designing creator, and you ob"
+        },
+        {
+          "id": 4998,
+          "score": 0.4951,
+          "category": "alt.atheism",
+          "text": "Archive-name: atheism/logic Alt-atheism-archive-name: logic Last-modif"
+        }
+      ],
+      "overlap": 1.0
+    },
+    "hnsw_default_ef_16": {
+      "latency_ms": 3.154,
+      "top": [
+        {
+          "id": 609,
+          "score": 0.5217,
+          "category": "alt.atheism",
+          "text": "(Deletion)   For me, it is a \"I believe no gods exist\" and a \"I don't "
+        },
+        {
+          "id": 4263,
+          "score": 0.512,
+          "category": "alt.atheism",
+          "text": ": Very true (length of time for discussions on creationism vs evolutio"
+        },
+        {
+          "id": 4112,
+          "score": 0.5108,
+          "category": "alt.atheism",
+          "text": "A world creator god does, the moment it creates the world. And to sayi"
+        },
+        {
+          "id": 5766,
+          "score": 0.5073,
+          "category": "soc.religion.christian",
+          "text": "You assume this because you believe in a designing creator, and you ob"
+        },
+        {
+          "id": 4998,
+          "score": 0.4951,
+          "category": "alt.atheism",
+          "text": "Archive-name: atheism/logic Alt-atheism-archive-name: logic Last-modif"
+        }
+      ],
+      "overlap": 1.0
+    },
+    "hnsw_default_ef_64": {
+      "latency_ms": 3.321,
+      "top": [
+        {
+          "id": 609,
+          "score": 0.5217,
+          "category": "alt.atheism",
+          "text": "(Deletion)   For me, it is a \"I believe no gods exist\" and a \"I don't "
+        },
+        {
+          "id": 4263,
+          "score": 0.512,
+          "category": "alt.atheism",
+          "text": ": Very true (length of time for discussions on creationism vs evolutio"
+        },
+        {
+          "id": 4112,
+          "score": 0.5108,
+          "category": "alt.atheism",
+          "text": "A world creator god does, the moment it creates the world. And to sayi"
+        },
+        {
+          "id": 5766,
+          "score": 0.5073,
+          "category": "soc.religion.christian",
+          "text": "You assume this because you believe in a designing creator, and you ob"
+        },
+        {
+          "id": 4998,
+          "score": 0.4951,
+          "category": "alt.atheism",
+          "text": "Archive-name: atheism/logic Alt-atheism-archive-name: logic Last-modif"
+        }
+      ],
+      "overlap": 1.0
+    },
+    "hnsw_default_ef_128": {
+      "latency_ms": 3.326,
+      "top": [
+        {
+          "id": 609,
+          "score": 0.5217,
+          "category": "alt.atheism",
+          "text": "(Deletion)   For me, it is a \"I believe no gods exist\" and a \"I don't "
+        },
+        {
+          "id": 4263,
+          "score": 0.512,
+          "category": "alt.atheism",
+          "text": ": Very true (length of time for discussions on creationism vs evolutio"
+        },
+        {
+          "id": 4112,
+          "score": 0.5108,
+          "category": "alt.atheism",
+          "text": "A world creator god does, the moment it creates the world. And to sayi"
+        },
+        {
+          "id": 5766,
+          "score": 0.5073,
+          "category": "soc.religion.christian",
+          "text": "You assume this because you believe in a designing creator, and you ob"
+        },
+        {
+          "id": 4998,
+          "score": 0.4951,
+          "category": "alt.atheism",
+          "text": "Archive-name: atheism/logic Alt-atheism-archive-name: logic Last-modif"
+        }
+      ],
+      "overlap": 1.0
+    },
+    "hnsw_low_ef_default": {
+      "latency_ms": 3.279,
+      "top": [
+        {
+          "id": 609,
+          "score": 0.5217,
+          "category": "alt.atheism",
+          "text": "(Deletion)   For me, it is a \"I believe no gods exist\" and a \"I don't "
+        },
+        {
+          "id": 4263,
+          "score": 0.512,
+          "category": "alt.atheism",
+          "text": ": Very true (length of time for discussions on creationism vs evolutio"
+        },
+        {
+          "id": 4112,
+          "score": 0.5108,
+          "category": "alt.atheism",
+          "text": "A world creator god does, the moment it creates the world. And to sayi"
+        },
+        {
+          "id": 5766,
+          "score": 0.5073,
+          "category": "soc.religion.christian",
+          "text": "You assume this because you believe in a designing creator, and you ob"
+        },
+        {
+          "id": 4998,
+          "score": 0.4951,
+          "category": "alt.atheism",
+          "text": "Archive-name: atheism/logic Alt-atheism-archive-name: logic Last-modif"
+        }
+      ],
+      "overlap": 1.0
+    },
+    "hnsw_low_ef_16": {
+      "latency_ms": 3.439,
+      "top": [
+        {
+          "id": 609,
+          "score": 0.5217,
+          "category": "alt.atheism",
+          "text": "(Deletion)   For me, it is a \"I believe no gods exist\" and a \"I don't "
+        },
+        {
+          "id": 4263,
+          "score": 0.512,
+          "category": "alt.atheism",
+          "text": ": Very true (length of time for discussions on creationism vs evolutio"
+        },
+        {
+          "id": 4112,
+          "score": 0.5108,
+          "category": "alt.atheism",
+          "text": "A world creator god does, the moment it creates the world. And to sayi"
+        },
+        {
+          "id": 5766,
+          "score": 0.5073,
+          "category": "soc.religion.christian",
+          "text": "You assume this because you believe in a designing creator, and you ob"
+        },
+        {
+          "id": 4998,
+          "score": 0.4951,
+          "category": "alt.atheism",
+          "text": "Archive-name: atheism/logic Alt-atheism-archive-name: logic Last-modif"
+        }
+      ],
+      "overlap": 1.0
+    },
+    "hnsw_low_ef_64": {
+      "latency_ms": 3.98,
+      "top": [
+        {
+          "id": 609,
+          "score": 0.5217,
+          "category": "alt.atheism",
+          "text": "(Deletion)   For me, it is a \"I believe no gods exist\" and a \"I don't "
+        },
+        {
+          "id": 4263,
+          "score": 0.512,
+          "category": "alt.atheism",
+          "text": ": Very true (length of time for discussions on creationism vs evolutio"
+        },
+        {
+          "id": 4112,
+          "score": 0.5108,
+          "category": "alt.atheism",
+          "text": "A world creator god does, the moment it creates the world. And to sayi"
+        },
+        {
+          "id": 5766,
+          "score": 0.5073,
+          "category": "soc.religion.christian",
+          "text": "You assume this because you believe in a designing creator, and you ob"
+        },
+        {
+          "id": 4998,
+          "score": 0.4951,
+          "category": "alt.atheism",
+          "text": "Archive-name: atheism/logic Alt-atheism-archive-name: logic Last-modif"
+        }
+      ],
+      "overlap": 1.0
+    },
+    "hnsw_low_ef_128": {
+      "latency_ms": 4.171,
+      "top": [
+        {
+          "id": 609,
+          "score": 0.5217,
+          "category": "alt.atheism",
+          "text": "(Deletion)   For me, it is a \"I believe no gods exist\" and a \"I don't "
+        },
+        {
+          "id": 4263,
+          "score": 0.512,
+          "category": "alt.atheism",
+          "text": ": Very true (length of time for discussions on creationism vs evolutio"
+        },
+        {
+          "id": 4112,
+          "score": 0.5108,
+          "category": "alt.atheism",
+          "text": "A world creator god does, the moment it creates the world. And to sayi"
+        },
+        {
+          "id": 5766,
+          "score": 0.5073,
+          "category": "soc.religion.christian",
+          "text": "You assume this because you believe in a designing creator, and you ob"
+        },
+        {
+          "id": 4998,
+          "score": 0.4951,
+          "category": "alt.atheism",
+          "text": "Archive-name: atheism/logic Alt-atheism-archive-name: logic Last-modif"
+        }
+      ],
+      "overlap": 1.0
+    }
+  },
+  {
+    "query": "ice hockey playoff results and player trades",
+    "exact": {
+      "latency_ms": 3.897,
+      "top": [
+        {
+          "id": 2835,
+          "score": 0.5802,
+          "category": "rec.sport.hockey",
+          "text": "Does anyone have the NHL STANDINGS for March 28th? I need them IMMEDIA"
+        },
+        {
+          "id": 2082,
+          "score": 0.5599,
+          "category": "rec.sport.hockey",
+          "text": "Here are the standings after the April 6 update.  I'll be leaving for "
+        },
+        {
+          "id": 4860,
+          "score": 0.5467,
+          "category": "rec.sport.hockey",
+          "text": "I am looking for all the 84 boxscores of any NHL team for  some person"
+        },
+        {
+          "id": 2936,
+          "score": 0.545,
+          "category": "rec.sport.hockey",
+          "text": "If you are interested in receiving the final player stats for the 1992"
+        },
+        {
+          "id": 3392,
+          "score": 0.5376,
+          "category": "rec.sport.hockey",
+          "text": "Well, I'm back from Tokyo, so here are the standings after the April 1"
+        }
+      ],
+      "overlap": 1.0
+    },
+    "hnsw_default_ef_default": {
+      "latency_ms": 3.842,
+      "top": [
+        {
+          "id": 2835,
+          "score": 0.5802,
+          "category": "rec.sport.hockey",
+          "text": "Does anyone have the NHL STANDINGS for March 28th? I need them IMMEDIA"
+        },
+        {
+          "id": 2082,
+          "score": 0.5599,
+          "category": "rec.sport.hockey",
+          "text": "Here are the standings after the April 6 update.  I'll be leaving for "
+        },
+        {
+          "id": 4860,
+          "score": 0.5467,
+          "category": "rec.sport.hockey",
+          "text": "I am looking for all the 84 boxscores of any NHL team for  some person"
+        },
+        {
+          "id": 2936,
+          "score": 0.545,
+          "category": "rec.sport.hockey",
+          "text": "If you are interested in receiving the final player stats for the 1992"
+        },
+        {
+          "id": 3392,
+          "score": 0.5376,
+          "category": "rec.sport.hockey",
+          "text": "Well, I'm back from Tokyo, so here are the standings after the April 1"
+        }
+      ],
+      "overlap": 1.0
+    },
+    "hnsw_default_ef_16": {
+      "latency_ms": 4.072,
+      "top": [
+        {
+          "id": 2835,
+          "score": 0.5802,
+          "category": "rec.sport.hockey",
+          "text": "Does anyone have the NHL STANDINGS for March 28th? I need them IMMEDIA"
+        },
+        {
+          "id": 2082,
+          "score": 0.5599,
+          "category": "rec.sport.hockey",
+          "text": "Here are the standings after the April 6 update.  I'll be leaving for "
+        },
+        {
+          "id": 4860,
+          "score": 0.5467,
+          "category": "rec.sport.hockey",
+          "text": "I am looking for all the 84 boxscores of any NHL team for  some person"
+        },
+        {
+          "id": 2936,
+          "score": 0.545,
+          "category": "rec.sport.hockey",
+          "text": "If you are interested in receiving the final player stats for the 1992"
+        },
+        {
+          "id": 3392,
+          "score": 0.5376,
+          "category": "rec.sport.hockey",
+          "text": "Well, I'm back from Tokyo, so here are the standings after the April 1"
+        }
+      ],
+      "overlap": 1.0
+    },
+    "hnsw_default_ef_64": {
+      "latency_ms": 3.376,
+      "top": [
+        {
+          "id": 2835,
+          "score": 0.5802,
+          "category": "rec.sport.hockey",
+          "text": "Does anyone have the NHL STANDINGS for March 28th? I need them IMMEDIA"
+        },
+        {
+          "id": 2082,
+          "score": 0.5599,
+          "category": "rec.sport.hockey",
+          "text": "Here are the standings after the April 6 update.  I'll be leaving for "
+        },
+        {
+          "id": 4860,
+          "score": 0.5467,
+          "category": "rec.sport.hockey",
+          "text": "I am looking for all the 84 boxscores of any NHL team for  some person"
+        },
+        {
+          "id": 2936,
+          "score": 0.545,
+          "category": "rec.sport.hockey",
+          "text": "If you are interested in receiving the final player stats for the 1992"
+        },
+        {
+          "id": 3392,
+          "score": 0.5376,
+          "category": "rec.sport.hockey",
+          "text": "Well, I'm back from Tokyo, so here are the standings after the April 1"
+        }
+      ],
+      "overlap": 1.0
+    },
+    "hnsw_default_ef_128": {
+      "latency_ms": 4.009,
+      "top": [
+        {
+          "id": 2835,
+          "score": 0.5802,
+          "category": "rec.sport.hockey",
+          "text": "Does anyone have the NHL STANDINGS for March 28th? I need them IMMEDIA"
+        },
+        {
+          "id": 2082,
+          "score": 0.5599,
+          "category": "rec.sport.hockey",
+          "text": "Here are the standings after the April 6 update.  I'll be leaving for "
+        },
+        {
+          "id": 4860,
+          "score": 0.5467,
+          "category": "rec.sport.hockey",
+          "text": "I am looking for all the 84 boxscores of any NHL team for  some person"
+        },
+        {
+          "id": 2936,
+          "score": 0.545,
+          "category": "rec.sport.hockey",
+          "text": "If you are interested in receiving the final player stats for the 1992"
+        },
+        {
+          "id": 3392,
+          "score": 0.5376,
+          "category": "rec.sport.hockey",
+          "text": "Well, I'm back from Tokyo, so here are the standings after the April 1"
+        }
+      ],
+      "overlap": 1.0
+    },
+    "hnsw_low_ef_default": {
+      "latency_ms": 4.286,
+      "top": [
+        {
+          "id": 2835,
+          "score": 0.5802,
+          "category": "rec.sport.hockey",
+          "text": "Does anyone have the NHL STANDINGS for March 28th? I need them IMMEDIA"
+        },
+        {
+          "id": 2082,
+          "score": 0.5599,
+          "category": "rec.sport.hockey",
+          "text": "Here are the standings after the April 6 update.  I'll be leaving for "
+        },
+        {
+          "id": 4860,
+          "score": 0.5467,
+          "category": "rec.sport.hockey",
+          "text": "I am looking for all the 84 boxscores of any NHL team for  some person"
+        },
+        {
+          "id": 2936,
+          "score": 0.545,
+          "category": "rec.sport.hockey",
+          "text": "If you are interested in receiving the final player stats for the 1992"
+        },
+        {
+          "id": 3392,
+          "score": 0.5376,
+          "category": "rec.sport.hockey",
+          "text": "Well, I'm back from Tokyo, so here are the standings after the April 1"
+        }
+      ],
+      "overlap": 1.0
+    },
+    "hnsw_low_ef_16": {
+      "latency_ms": 3.952,
+      "top": [
+        {
+          "id": 2835,
+          "score": 0.5802,
+          "category": "rec.sport.hockey",
+          "text": "Does anyone have the NHL STANDINGS for March 28th? I need them IMMEDIA"
+        },
+        {
+          "id": 2082,
+          "score": 0.5599,
+          "category": "rec.sport.hockey",
+          "text": "Here are the standings after the April 6 update.  I'll be leaving for "
+        },
+        {
+          "id": 4860,
+          "score": 0.5467,
+          "category": "rec.sport.hockey",
+          "text": "I am looking for all the 84 boxscores of any NHL team for  some person"
+        },
+        {
+          "id": 2936,
+          "score": 0.545,
+          "category": "rec.sport.hockey",
+          "text": "If you are interested in receiving the final player stats for the 1992"
+        },
+        {
+          "id": 3392,
+          "score": 0.5376,
+          "category": "rec.sport.hockey",
+          "text": "Well, I'm back from Tokyo, so here are the standings after the April 1"
+        }
+      ],
+      "overlap": 1.0
+    },
+    "hnsw_low_ef_64": {
+      "latency_ms": 3.749,
+      "top": [
+        {
+          "id": 2835,
+          "score": 0.5802,
+          "category": "rec.sport.hockey",
+          "text": "Does anyone have the NHL STANDINGS for March 28th? I need them IMMEDIA"
+        },
+        {
+          "id": 2082,
+          "score": 0.5599,
+          "category": "rec.sport.hockey",
+          "text": "Here are the standings after the April 6 update.  I'll be leaving for "
+        },
+        {
+          "id": 4860,
+          "score": 0.5467,
+          "category": "rec.sport.hockey",
+          "text": "I am looking for all the 84 boxscores of any NHL team for  some person"
+        },
+        {
+          "id": 2936,
+          "score": 0.545,
+          "category": "rec.sport.hockey",
+          "text": "If you are interested in receiving the final player stats for the 1992"
+        },
+        {
+          "id": 3392,
+          "score": 0.5376,
+          "category": "rec.sport.hockey",
+          "text": "Well, I'm back from Tokyo, so here are the standings after the April 1"
+        }
+      ],
+      "overlap": 1.0
+    },
+    "hnsw_low_ef_128": {
+      "latency_ms": 3.868,
+      "top": [
+        {
+          "id": 2835,
+          "score": 0.5802,
+          "category": "rec.sport.hockey",
+          "text": "Does anyone have the NHL STANDINGS for March 28th? I need them IMMEDIA"
+        },
+        {
+          "id": 2082,
+          "score": 0.5599,
+          "category": "rec.sport.hockey",
+          "text": "Here are the standings after the April 6 update.  I'll be leaving for "
+        },
+        {
+          "id": 4860,
+          "score": 0.5467,
+          "category": "rec.sport.hockey",
+          "text": "I am looking for all the 84 boxscores of any NHL team for  some person"
+        },
+        {
+          "id": 2936,
+          "score": 0.545,
+          "category": "rec.sport.hockey",
+          "text": "If you are interested in receiving the final player stats for the 1992"
+        },
+        {
+          "id": 3392,
+          "score": 0.5376,
+          "category": "rec.sport.hockey",
+          "text": "Well, I'm back from Tokyo, so here are the standings after the April 1"
+        }
+      ],
+      "overlap": 1.0
+    }
+  },
+  {
+    "query": "encryption, government surveillance and the clipper chip",
+    "exact": {
+      "latency_ms": 3.416,
+      "top": [
+        {
+          "id": 1831,
+          "score": 0.7545,
+          "category": "sci.crypt",
+          "text": "The following document summarizes the Clipper Chip, how it is used, ho"
+        },
+        {
+          "id": 644,
+          "score": 0.7357,
+          "category": "sci.crypt",
+          "text": "April 16, 1993  INITIAL EFF ANALYSIS OF CLINTON PRIVACY AND SECURITY P"
+        },
+        {
+          "id": 5986,
+          "score": 0.717,
+          "category": "sci.crypt",
+          "text": "[An article from comp.org.eff.news, EFFector Online 5.06 - Carl]      "
+        },
+        {
+          "id": 2501,
+          "score": 0.7102,
+          "category": "alt.atheism",
+          "text": "The CLIPPER initiative is an announcement by Clinton that all the  \"se"
+        },
+        {
+          "id": 2265,
+          "score": 0.7032,
+          "category": "sci.crypt",
+          "text": "^^^^^^^^^^^^^^^^^^^\\                             Great... nice choice "
+        }
+      ],
+      "overlap": 1.0
+    },
+    "hnsw_default_ef_default": {
+      "latency_ms": 3.26,
+      "top": [
+        {
+          "id": 1831,
+          "score": 0.7545,
+          "category": "sci.crypt",
+          "text": "The following document summarizes the Clipper Chip, how it is used, ho"
+        },
+        {
+          "id": 644,
+          "score": 0.7357,
+          "category": "sci.crypt",
+          "text": "April 16, 1993  INITIAL EFF ANALYSIS OF CLINTON PRIVACY AND SECURITY P"
+        },
+        {
+          "id": 5986,
+          "score": 0.717,
+          "category": "sci.crypt",
+          "text": "[An article from comp.org.eff.news, EFFector Online 5.06 - Carl]      "
+        },
+        {
+          "id": 2501,
+          "score": 0.7102,
+          "category": "alt.atheism",
+          "text": "The CLIPPER initiative is an announcement by Clinton that all the  \"se"
+        },
+        {
+          "id": 2265,
+          "score": 0.7032,
+          "category": "sci.crypt",
+          "text": "^^^^^^^^^^^^^^^^^^^\\                             Great... nice choice "
+        }
+      ],
+      "overlap": 1.0
+    },
+    "hnsw_default_ef_16": {
+      "latency_ms": 3.396,
+      "top": [
+        {
+          "id": 1831,
+          "score": 0.7545,
+          "category": "sci.crypt",
+          "text": "The following document summarizes the Clipper Chip, how it is used, ho"
+        },
+        {
+          "id": 644,
+          "score": 0.7357,
+          "category": "sci.crypt",
+          "text": "April 16, 1993  INITIAL EFF ANALYSIS OF CLINTON PRIVACY AND SECURITY P"
+        },
+        {
+          "id": 5986,
+          "score": 0.717,
+          "category": "sci.crypt",
+          "text": "[An article from comp.org.eff.news, EFFector Online 5.06 - Carl]      "
+        },
+        {
+          "id": 2501,
+          "score": 0.7102,
+          "category": "alt.atheism",
+          "text": "The CLIPPER initiative is an announcement by Clinton that all the  \"se"
+        },
+        {
+          "id": 2265,
+          "score": 0.7032,
+          "category": "sci.crypt",
+          "text": "^^^^^^^^^^^^^^^^^^^\\                             Great... nice choice "
+        }
+      ],
+      "overlap": 1.0
+    },
+    "hnsw_default_ef_64": {
+      "latency_ms": 3.424,
+      "top": [
+        {
+          "id": 1831,
+          "score": 0.7545,
+          "category": "sci.crypt",
+          "text": "The following document summarizes the Clipper Chip, how it is used, ho"
+        },
+        {
+          "id": 644,
+          "score": 0.7357,
+          "category": "sci.crypt",
+          "text": "April 16, 1993  INITIAL EFF ANALYSIS OF CLINTON PRIVACY AND SECURITY P"
+        },
+        {
+          "id": 5986,
+          "score": 0.717,
+          "category": "sci.crypt",
+          "text": "[An article from comp.org.eff.news, EFFector Online 5.06 - Carl]      "
+        },
+        {
+          "id": 2501,
+          "score": 0.7102,
+          "category": "alt.atheism",
+          "text": "The CLIPPER initiative is an announcement by Clinton that all the  \"se"
+        },
+        {
+          "id": 2265,
+          "score": 0.7032,
+          "category": "sci.crypt",
+          "text": "^^^^^^^^^^^^^^^^^^^\\                             Great... nice choice "
+        }
+      ],
+      "overlap": 1.0
+    },
+    "hnsw_default_ef_128": {
+      "latency_ms": 3.442,
+      "top": [
+        {
+          "id": 1831,
+          "score": 0.7545,
+          "category": "sci.crypt",
+          "text": "The following document summarizes the Clipper Chip, how it is used, ho"
+        },
+        {
+          "id": 644,
+          "score": 0.7357,
+          "category": "sci.crypt",
+          "text": "April 16, 1993  INITIAL EFF ANALYSIS OF CLINTON PRIVACY AND SECURITY P"
+        },
+        {
+          "id": 5986,
+          "score": 0.717,
+          "category": "sci.crypt",
+          "text": "[An article from comp.org.eff.news, EFFector Online 5.06 - Carl]      "
+        },
+        {
+          "id": 2501,
+          "score": 0.7102,
+          "category": "alt.atheism",
+          "text": "The CLIPPER initiative is an announcement by Clinton that all the  \"se"
+        },
+        {
+          "id": 2265,
+          "score": 0.7032,
+          "category": "sci.crypt",
+          "text": "^^^^^^^^^^^^^^^^^^^\\                             Great... nice choice "
+        }
+      ],
+      "overlap": 1.0
+    },
+    "hnsw_low_ef_default": {
+      "latency_ms": 3.282,
+      "top": [
+        {
+          "id": 1831,
+          "score": 0.7545,
+          "category": "sci.crypt",
+          "text": "The following document summarizes the Clipper Chip, how it is used, ho"
+        },
+        {
+          "id": 644,
+          "score": 0.7357,
+          "category": "sci.crypt",
+          "text": "April 16, 1993  INITIAL EFF ANALYSIS OF CLINTON PRIVACY AND SECURITY P"
+        },
+        {
+          "id": 5986,
+          "score": 0.717,
+          "category": "sci.crypt",
+          "text": "[An article from comp.org.eff.news, EFFector Online 5.06 - Carl]      "
+        },
+        {
+          "id": 2501,
+          "score": 0.7102,
+          "category": "alt.atheism",
+          "text": "The CLIPPER initiative is an announcement by Clinton that all the  \"se"
+        },
+        {
+          "id": 2265,
+          "score": 0.7032,
+          "category": "sci.crypt",
+          "text": "^^^^^^^^^^^^^^^^^^^\\                             Great... nice choice "
+        }
+      ],
+      "overlap": 1.0
+    },
+    "hnsw_low_ef_16": {
+      "latency_ms": 3.314,
+      "top": [
+        {
+          "id": 1831,
+          "score": 0.7545,
+          "category": "sci.crypt",
+          "text": "The following document summarizes the Clipper Chip, how it is used, ho"
+        },
+        {
+          "id": 644,
+          "score": 0.7357,
+          "category": "sci.crypt",
+          "text": "April 16, 1993  INITIAL EFF ANALYSIS OF CLINTON PRIVACY AND SECURITY P"
+        },
+        {
+          "id": 5986,
+          "score": 0.717,
+          "category": "sci.crypt",
+          "text": "[An article from comp.org.eff.news, EFFector Online 5.06 - Carl]      "
+        },
+        {
+          "id": 2501,
+          "score": 0.7102,
+          "category": "alt.atheism",
+          "text": "The CLIPPER initiative is an announcement by Clinton that all the  \"se"
+        },
+        {
+          "id": 2265,
+          "score": 0.7032,
+          "category": "sci.crypt",
+          "text": "^^^^^^^^^^^^^^^^^^^\\                             Great... nice choice "
+        }
+      ],
+      "overlap": 1.0
+    },
+    "hnsw_low_ef_64": {
+      "latency_ms": 3.41,
+      "top": [
+        {
+          "id": 1831,
+          "score": 0.7545,
+          "category": "sci.crypt",
+          "text": "The following document summarizes the Clipper Chip, how it is used, ho"
+        },
+        {
+          "id": 644,
+          "score": 0.7357,
+          "category": "sci.crypt",
+          "text": "April 16, 1993  INITIAL EFF ANALYSIS OF CLINTON PRIVACY AND SECURITY P"
+        },
+        {
+          "id": 5986,
+          "score": 0.717,
+          "category": "sci.crypt",
+          "text": "[An article from comp.org.eff.news, EFFector Online 5.06 - Carl]      "
+        },
+        {
+          "id": 2501,
+          "score": 0.7102,
+          "category": "alt.atheism",
+          "text": "The CLIPPER initiative is an announcement by Clinton that all the  \"se"
+        },
+        {
+          "id": 2265,
+          "score": 0.7032,
+          "category": "sci.crypt",
+          "text": "^^^^^^^^^^^^^^^^^^^\\                             Great... nice choice "
+        }
+      ],
+      "overlap": 1.0
+    },
+    "hnsw_low_ef_128": {
+      "latency_ms": 4.004,
+      "top": [
+        {
+          "id": 1831,
+          "score": 0.7545,
+          "category": "sci.crypt",
+          "text": "The following document summarizes the Clipper Chip, how it is used, ho"
+        },
+        {
+          "id": 644,
+          "score": 0.7357,
+          "category": "sci.crypt",
+          "text": "April 16, 1993  INITIAL EFF ANALYSIS OF CLINTON PRIVACY AND SECURITY P"
+        },
+        {
+          "id": 5986,
+          "score": 0.717,
+          "category": "sci.crypt",
+          "text": "[An article from comp.org.eff.news, EFFector Online 5.06 - Carl]      "
+        },
+        {
+          "id": 2501,
+          "score": 0.7102,
+          "category": "alt.atheism",
+          "text": "The CLIPPER initiative is an announcement by Clinton that all the  \"se"
+        },
+        {
+          "id": 2265,
+          "score": 0.7032,
+          "category": "sci.crypt",
+          "text": "^^^^^^^^^^^^^^^^^^^\\                             Great... nice choice "
+        }
+      ],
+      "overlap": 1.0
+    }
+  }
+]
